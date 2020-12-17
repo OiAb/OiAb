@@ -1,4 +1,4 @@
-## To Github Community 👋
+## To the Github Community 👋
 
 
 
