@@ -1,16 +1,110 @@
-### Hi there 👋
+## To Github Community 👋
 
-<!--
-**OiAb/OiAb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/ouijdane-abchir-439947171" target="_blank"><img alt="OiAb's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+
+
+
+Hello, I'm **ABCHIR Ouijdane**. I'm an **IA** and **Data Science** engineering student in **Mines School of Alès** (**EMA**) passionate about **Artificial Intelligence**, **Data Science**, **Machine/Deep Learning**, and web/mobile programming.
+
+
+  ## Languages and Tools 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MySQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
+
+
+##  How to reach me 📫
+ * ✉️  [Email](ouijdane.abchir15@gmail.com)
+
+
+
+<!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code-->
+
+
+
+
+
+<!--details>
+<summary>Table of content</summary>
+  
+<!--## Table of content
+   * [How to reach me](#How-to-reach-me-)
+   * [My skills](#My-skills-)
+   * [My projects](#My-Projects-)
+   * [Languages](#Languages-)-->
+   
+<!--/details--> 
+
+
+
+## My skills 📜
+
+
+- Java, Spring Boot, Jpa, JEE, Hibernate
+- Javascript, Ajax, jQuery, Angular, JSX, ES6, ReactJS, Reacte Native,
+- Python, Django
+- C, C++, C#
+- PyTorch, TenserFlow, Keras, Numpy
+- PHP, Laraval, Bootstrap, Symfony
+- Mysql, PostgreSql, Oracle, Firebase
+- Git, Gitlab
+
+
+## My Projects 💡
+
+<details>
+<summary></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+      <th>Repo</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <td> Chatbot Digital Innov </td>
+      <td> Python, PyTorch, TenserFlow, Keras, Numpy </td>
+      <td> Developping a chatbot for a e-marketing website to improve the customer experience </td>
+      <td> https://github.com/OiAb/Chatbot_Project.git </td>
+     </tr>
+    <tr>
+      <td> Management of HR evaluations </d>
+      <td> Spring Boot, JEE, ReactJs and Javascript </d>
+      <td> Developping a web application for Managing the HR evaluations in CNSS community </d>
+      <td> https://github.com/OiAb/HRTest.git </td>
+    </tr>
+  
+  </tbody>
+</table>
+</details> 
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English (en)  | C1               |
+| French (fr)   | C1  |
+| Arabic        | Native language  |                                                         |
+
