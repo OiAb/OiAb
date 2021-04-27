@@ -9,7 +9,7 @@
 
 
 
-Hello, I'm **ABCHIR Ouijdane**. I'm an **IA** and **Data Science** engineering student in **Mines School of Alès** (**EMA**) passionate about **WEB Development** **Artificial Intelligence**, **Data Science**, **Machine/Deep Learning**, and **mobile programming**.
+Hello, I'm **ABCHIR Ouijdane**. I'm an **IA** and **Data Science** engineering student in **Mines School of Alès** (**EMA**) passionate about **WEB Development**, **Artificial Intelligence**, **Data Science**, **Machine/Deep Learning**, and **mobile programming**.
 
 
   ## Languages and Tools 
