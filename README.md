@@ -9,7 +9,7 @@
 
 
 
-Hello, I'm **ABCHIR Ouijdane**. I'm an **IA** and **Data Science** engineering student in **Mines School of Alès** (**EMA**) passionate about **Artificial Intelligence**, **Data Science**, **Machine/Deep Learning**, and web/mobile programming.
+Hello, I'm **ABCHIR Ouijdane**. I'm an **IA** and **Data Science** engineering student in **Mines School of Alès** (**EMA**) passionate about **WEB Development** **Artificial Intelligence**, **Data Science**, **Machine/Deep Learning**, and **mobile programming**.
 
 
   ## Languages and Tools 
@@ -60,7 +60,7 @@ Hello, I'm **ABCHIR Ouijdane**. I'm an **IA** and **Data Science** engineering s
 
 - Java, Spring Boot, Jpa, JEE, Hibernate
 - Javascript, Ajax, jQuery, Angular, JSX, ES6, ReactJS, Reacte Native,
-- Python, Django
+- Python, R, Django
 - C, C++, C#
 - PyTorch, TenserFlow, Keras, Numpy
 - PHP, Laraval, Bootstrap, Symfony
