@@ -67,39 +67,6 @@ Hello, I'm **ABCHIR Ouijdane**. I'm an **IA** and **Data Science** engineering s
 - Mysql, PostgreSql, Oracle, Firebase
 - Git, Gitlab
 
-
-## My Projects 💡
-
-<details>
-<summary></summary>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Skills used</th>
-      <th>Description</th>
-      <th>Repo</th>
-    </tr>
-  </thead>
-    <tbody>
-    <tr>
-      <td> Chatbot Digital Innov </td>
-      <td> Python, PyTorch, TenserFlow, Keras, Numpy </td>
-      <td> Developping a chatbot for a e-marketing website to improve the customer experience </td>
-      <td> https://github.com/OiAb/Chatbot_Project.git </td>
-     </tr>
-    <tr>
-      <td> Management of HR evaluations </d>
-      <td> Spring Boot, JEE, ReactJs and Javascript </d>
-      <td> Developping a web application for Managing the HR evaluations in CNSS community </d>
-      <td> https://github.com/OiAb/HRTest.git </td>
-    </tr>
-  
-  </tbody>
-</table>
-</details> 
-
 ### Languages 🌐
 
 | Language      | Proficiency                                                               |
