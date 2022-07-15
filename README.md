@@ -12,7 +12,7 @@
 Hello, I'm **ABCHIR Ouijdane**. I'm an **IA** and **Data Science** engineering student in **Mines School of Alès** (**EMA**) passionate about **WEB Development**, **Artificial Intelligence**, **Data Science**, **Machine/Deep Learning**, and **mobile programming**.
 
 
-  ## Languages and Tools 
+  ## Tools 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
