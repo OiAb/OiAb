@@ -9,7 +9,7 @@
 
 
 
-Hello, I'm **ABCHIR Ouijdane**. I'm a **Data Science** and **IA** engineering student in **Ecole des Mines d'Alès** (**EMA**) passionate about **BI**, **Artificial Intelligence**, **Data Science** and **Machine/Deep Learning**.
+Hello, I'm **ABCHIR Ouijdane**. I'm a **Data Science** and **IA** engineering student in **Ecole des Mines d'Alès** (**EMA**) passionate about **BI**, **Artificial Intelligence**, **Data Science**, **ML** and **DL**.
 
 
   ## Tools 
