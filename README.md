@@ -65,6 +65,7 @@ Hello, I'm **ABCHIR Ouijdane**. I'm a **Data Science** and **IA** engineering st
 - PyTorch, TenserFlow, Keras, Numpy
 - PHP, Laraval, Bootstrap, Symfony
 - Mysql, PostgreSql, Oracle, Firebase
+- Power BI
 - Git, Gitlab
 
 ### Languages 🌐
