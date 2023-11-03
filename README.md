@@ -9,22 +9,21 @@
 
 
 
-Hello, I'm **ABCHIR Ouijdane**. I'm a **Data Science** and **IA** engineering student in **Ecole des Mines d'Alès** (**EMA**) passionate about **BI**, **Artificial Intelligence**, **Data Science**, **ML** and **DL**.
+Hello, I'm **ABCHIR Ouijdane**. I'm skilled in **Computer Science** and **Finance** and specifically passionate about **Quantitative Finance**, double graduate of **ECOLE DES MINES** and **EHTP*$ in **Artificial Intelligence and Data Science**, and current student enrolled in **Msc Quantitative Finance** at **Paris1 Panthéon-Sorbonne University**.
 
 
   ## Tools 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R) 
+![C#](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=Csharp) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![MySQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
+![PowerBI](https://img.shields.io/badge/-powerbi-black?style=flat-square&logo=PowerBI)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
 ##  How to reach me 📫
- * ✉️  [Email](ouijdane.abchir15@gmail.com)
+ * ✉️  [Email](ouijdaneabchir@gmail.com)
 
 
 
@@ -58,12 +57,9 @@ Hello, I'm **ABCHIR Ouijdane**. I'm a **Data Science** and **IA** engineering st
 ## My skills 📜
 
 
-- Java, Spring Boot, Jpa, JEE, Hibernate
-- Javascript, Ajax, jQuery, Angular, JSX, ES6, ReactJS, Reacte Native,
-- Python, R, Django
+- Python, R
 - C, C++, C#
 - PyTorch, TenserFlow, Keras, Numpy
-- PHP, Laraval, Bootstrap, Symfony
 - Mysql, PostgreSql, Oracle, Firebase
 - Power BI
 - Git, Gitlab
@@ -72,7 +68,7 @@ Hello, I'm **ABCHIR Ouijdane**. I'm a **Data Science** and **IA** engineering st
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English (en)  | C1               |
-| French (fr)   | C1  |
-| Arabic        | Native language  |                                                         |
+| English (en)  | Fluent  |
+| French (fr)   | Fluent  |
+| Arabic        | Native  |                                                         |
 
