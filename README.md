@@ -9,7 +9,7 @@
 
 
 
-Hello, I'm **ABCHIR Ouijdane**. I'm skilled in **Computer Science** and **Finance** and specifically passionate about **Quantitative Finance**, double graduate of **ECOLE DES MINES** and **EHTP*$ in **Artificial Intelligence and Data Science**, and current student enrolled in **Msc Quantitative Finance** at **Paris1 Panthéon-Sorbonne University**.
+Hello, I'm **ABCHIR Ouijdane**. I'm skilled in **Computer Science** and **Finance** and specifically passionate about **Quantitative Finance**, double graduate of **ECOLE DES MINES** and **EHTP** in **Artificial Intelligence and Data Science**, and current student enrolled in **Msc Quantitative Finance** at **Paris1 Panthéon-Sorbonne University**.
 
 
   ## Tools 
