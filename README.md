@@ -58,11 +58,28 @@ Hello, I'm **ABCHIR Ouijdane**. I'm skilled in **Computer Science** and **Financ
 ## My skills 📜
 
 
-- Python, R, VBA
-- C, C++, C#
+- Stochastic Calculus
+- Algorithmic Trading
+- Arbitrage Pricing
+- Calibration in Quantitative Finance
+- Interest rate models
+- Monte Carlo Methods and Malliavin Calculus
+- Financial Time Series
+- Market Risk Measure
+- Financial Products and Pricing
+- Convex Analysis and optimization
+- Probability and Statistics
+- Machine Learning & Data Science applied to Finance
+- Deep Learning
+- Ensemble Learning
+- Statistical Learning
+- Python, C++
+- R, VBA
+- C, C#
 - PyTorch, TenserFlow, Keras, Numpy
 - Mysql, PostgreSql, Oracle, Firebase
 - Power BI
+- Azure
 - Git, Gitlab
 
 ### Languages 🌐
