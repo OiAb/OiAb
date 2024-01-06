@@ -3,7 +3,8 @@
 
 
 <p>
-  <a href="https://www.linkedin.com/in/ouijdane-abchir-439947171" target="_blank"><img alt="OiAb's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ouijdane-abchir-439947171" target="_blank"><img alt="OiAb's LinkdeIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://secure.plum.io/p/VHnRXXNV2SZOtLJ9nm2jsw" target="_blank"><img alt="OiAb's Plum" src="https://img.shields.io/badge/plum-%230077B5.svg?&style=for-the-badge&logo=plum&logoColor=white" /></a> 
 </p>
 
 
@@ -81,6 +82,17 @@ Hello, I'm **ABCHIR Ouijdane**. I'm skilled in **Computer Science** and **Financ
 - Power BI
 - Azure
 - Git, Gitlab
+
+  ## My certifications 📜
+
+
+- Azure Developer Associate - Microsoft 
+- Machine Learning - Stanford University
+- What is Data Science? - IBM 
+- Data Science Methodology - IBM 
+- Machine Learning with Python - IBM 
+- Python for Data Science and AI - IBM 
+- Tools for Data Science - IBM
 
 ### Languages 🌐
 
