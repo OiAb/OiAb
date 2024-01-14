@@ -12,6 +12,18 @@
 
 Hello, I'm **ABCHIR Ouijdane**. I'm skilled in **Computer Science** and **Finance** and specifically passionate about **Quantitative Finance**, double graduate of **ECOLE DES MINES** and **EHTP** in **Artificial Intelligence and Data Science**, and current student enrolled in **Msc Quantitative Finance** at **Paris1 Panthéon-Sorbonne University**.
 
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=OiAb&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=OiAb&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+</a>
+  <img height="48%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=OiAb&layout=compact&hide_border=true&langs_count=6&hide=tex,css,php,html">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=OiAb&hide_border=true">
+  <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=OiAb&hide_border=true" />
+</a>
+
+
+</p>
+
 
   ## Tools 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
@@ -102,15 +114,4 @@ Hello, I'm **ABCHIR Ouijdane**. I'm skilled in **Computer Science** and **Financ
 | French (fr)   | Fluent  |
 | Arabic        | Native  |                                                         |
 
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=OiAb&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=OiAb&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-</a>
-  <img height="48%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=OiAb&layout=compact&hide_border=true&langs_count=6&hide=tex,css,php,html">
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=OiAb&hide_border=true">
-  <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=OiAb&hide_border=true" />
-</a>
-
-
-</p>
 
