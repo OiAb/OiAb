@@ -10,7 +10,7 @@
 
 
 
-Hello, I'm **ABCHIR Ouijdane**. I'm skilled in **Computer Science** and **Finance** and specifically passionate about **Quantitative Finance**, double graduate of **ECOLE DES MINES** and **EHTP** in **Artificial Intelligence and Data Science**, and current student enrolled in **Msc Quantitative Finance** at **Paris1 Panthéon-Sorbonne University**.
+Hello, I'm **ABCHIR Ouijdane**. I'm skilled in **Finance** and **Computer Science** and specifically passionate about **Quantitative Finance**, double graduate of **ECOLE DES MINES** in **Artificial Intelligence and Data Science**, and **Paris1 Panthéon-Sorbonne University** in **Msc Quantitative Finance**.
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=OiAb&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
@@ -98,6 +98,7 @@ Hello, I'm **ABCHIR Ouijdane**. I'm skilled in **Computer Science** and **Financ
   ## My certifications 📜
 
 
+- Credit Risk Modeling - Udemy
 - Azure Developer Associate - Microsoft 
 - Machine Learning - Stanford University
 - What is Data Science? - IBM 
